@@ -407,6 +407,7 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/x610/proprietary/vendor/lib/libMtkOmxVdecEx.so:$(TARGET_COPY_OUT_VENDOR)/lib/libMtkOmxVdecEx.so \
     vendor/infinix/x610/proprietary/vendor/lib/libMtkOmxVenc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libMtkOmxVenc.so \
     vendor/infinix/x610/proprietary/vendor/lib/libMtkOmxVorbisEnc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libMtkOmxVorbisEnc.so \
+    vendor/infinix/x610/proprietary/vendor/lib/libMtkSpeechEnh.so:$(TARGET_COPY_OUT_VENDOR)/lib/libMtkSpeechEnh.so \
     vendor/infinix/x610/proprietary/vendor/lib/libOpenCL.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOpenCL.so \
     vendor/infinix/x610/proprietary/vendor/lib/libSwJpgCodec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSwJpgCodec.so \
     vendor/infinix/x610/proprietary/vendor/lib/libTEECommon.so:$(TARGET_COPY_OUT_VENDOR)/lib/libTEECommon.so \
@@ -638,6 +639,7 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/x610/proprietary/vendor/lib64/libJpgEncPipe.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libJpgEncPipe.so \
     vendor/infinix/x610/proprietary/vendor/lib64/libMtkOmxCore.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libMtkOmxCore.so \
     vendor/infinix/x610/proprietary/vendor/lib64/libMtkSImage.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libMtkSImage.so \
+    vendor/infinix/x610/proprietary/vendor/lib64/libMtkSpeechEnh.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libMtkSpeechEnh.so \
     vendor/infinix/x610/proprietary/vendor/lib64/libOpenCL.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libOpenCL.so \
     vendor/infinix/x610/proprietary/vendor/lib64/libSonyIMX230PdafLibrary.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libSonyIMX230PdafLibrary.so \
     vendor/infinix/x610/proprietary/vendor/lib64/libSonyIMX230PdafLibraryWrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libSonyIMX230PdafLibraryWrapper.so \
