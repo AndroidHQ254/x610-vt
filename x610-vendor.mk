@@ -12,10 +12,17 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/x610/proprietary/product/etc/apns-conf.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/apns-conf.xml \
     vendor/infinix/x610/proprietary/vendor/lib/android.hardware.audio.common-util.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.audio.common-util.so \
     vendor/infinix/x610/proprietary/vendor/lib64/android.hardware.audio.common-util.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.audio.common-util.so \
+    vendor/infinix/x610/proprietary/lib64/libArcFilter.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libArcFilter.so \
     vendor/infinix/x610/proprietary/lib64/libarcsoft_dualcam_wt_calibration.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libarcsoft_dualcam_wt_calibration.so \
     vendor/infinix/x610/proprietary/lib64/libarcsoft_dualcam_wt_verification.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libarcsoft_dualcam_wt_verification.so \
     vendor/infinix/x610/proprietary/lib64/libarcsoft_panorama_burstcapture.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libarcsoft_panorama_burstcapture.so \
     vendor/infinix/x610/proprietary/lib64/libarcsoft_wideselfie.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libarcsoft_wideselfie.so \
+    vendor/infinix/x610/proprietary/lib64/libcvface_api.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libcvface_api.so \
+    vendor/infinix/x610/proprietary/lib64/libjni_cvface_api.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libjni_cvface_api.so \
+    vendor/infinix/x610/proprietary/lib64/libjni_wideselfie.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libjni_wideselfie.so \
+    vendor/infinix/x610/proprietary/lib64/libjnistblur_preview_api.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libjnistblur_preview_api.so \
+    vendor/infinix/x610/proprietary/lib64/libnama.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libnama.so \
+    vendor/infinix/x610/proprietary/lib64/libstblur_preview_api.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstblur_preview_api.so \
     vendor/infinix/x610/proprietary/vendor/app/EmCamera/lib/arm64/libem_camera_jni.so:$(TARGET_COPY_OUT_VENDOR)/app/EmCamera/lib/arm64/libem_camera_jni.so \
     vendor/infinix/x610/proprietary/vendor/bin/atcid:$(TARGET_COPY_OUT_VENDOR)/bin/atcid \
     vendor/infinix/x610/proprietary/vendor/bin/audiocmdservice_atci:$(TARGET_COPY_OUT_VENDOR)/bin/audiocmdservice_atci \
