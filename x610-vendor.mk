@@ -216,8 +216,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/x610/proprietary/vendor/etc/cdma_ecc_list_OP09.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cdma_ecc_list_OP09.xml \
     vendor/infinix/x610/proprietary/vendor/etc/cdma_ecc_list_OP12.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cdma_ecc_list_OP12.xml \
     vendor/infinix/x610/proprietary/vendor/etc/cdma_ecc_list_ss.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cdma_ecc_list_ss.xml \
-    vendor/infinix/x610/proprietary/vendor/etc/diracmobile.config:$(TARGET_COPY_OUT_VENDOR)/etc/diracmobile.config \
-    vendor/infinix/x610/proprietary/vendor/etc/diracvdd.bin:$(TARGET_COPY_OUT_VENDOR)/etc/diracvdd.bin \
     vendor/infinix/x610/proprietary/vendor/etc/ecc_list.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ecc_list.xml \
     vendor/infinix/x610/proprietary/vendor/etc/ecc_list_OP01.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ecc_list_OP01.xml \
     vendor/infinix/x610/proprietary/vendor/etc/ecc_list_OP09.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ecc_list_OP09.xml \
@@ -404,7 +402,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/x610/proprietary/vendor/lib/hw/vendor.sw.swfingerprint@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.sw.swfingerprint@1.0-impl.so \
     vendor/infinix/x610/proprietary/vendor/lib/libBnMtkCodec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libBnMtkCodec.so \
     vendor/infinix/x610/proprietary/vendor/lib/libDR.so:$(TARGET_COPY_OUT_VENDOR)/lib/libDR.so \
-    vendor/infinix/x610/proprietary/vendor/lib/libDiracAPI_SHARED.so:$(TARGET_COPY_OUT_VENDOR)/lib/libDiracAPI_SHARED.so \
     vendor/infinix/x610/proprietary/vendor/lib/libHEVCdec_sa.ca7.android.so:$(TARGET_COPY_OUT_VENDOR)/lib/libHEVCdec_sa.ca7.android.so \
     vendor/infinix/x610/proprietary/vendor/lib/libIMGegl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libIMGegl.so \
     vendor/infinix/x610/proprietary/vendor/lib/libJpgDecPipe.so:$(TARGET_COPY_OUT_VENDOR)/lib/libJpgDecPipe.so \
@@ -560,7 +557,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/x610/proprietary/vendor/lib/s5k3p9spb_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/s5k3p9spb_mipi_raw_tuning.so \
     vendor/infinix/x610/proprietary/vendor/lib/s5k3p9sx_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/s5k3p9sx_mipi_raw_tuning.so \
     vendor/infinix/x610/proprietary/vendor/lib/s5k3p9sxb_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/s5k3p9sxb_mipi_raw_tuning.so \
-    vendor/infinix/x610/proprietary/vendor/lib/soundfx/libdirac.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libdirac.so \
     vendor/infinix/x610/proprietary/vendor/lib/sp250a_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/sp250a_mipi_raw_tuning.so \
     vendor/infinix/x610/proprietary/vendor/lib/sp250ab_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/sp250ab_mipi_raw_tuning.so \
     vendor/infinix/x610/proprietary/vendor/lib/vendor.mediatek.hardware.apmonitor@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.apmonitor@1.0.so \
